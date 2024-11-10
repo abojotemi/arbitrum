@@ -1,0 +1,13 @@
+streamlit
+SpeechRecognition
+pytesseract
+opencv-python
+torch
+torchvision
+numpy
+pandas
+transformers
+Pillow
+python-dotenv
+matplotlib
+networkx
